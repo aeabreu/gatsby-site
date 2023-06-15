@@ -11,8 +11,8 @@ module.exports = {
       options: {
         name: `content`,
         path: `${__dirname}/src/content`,
-      }
-    }
+      },
+    },
     `gatsby-transformer-remark`,
     "gatsby-plugin-image",
     "gatsby-plugin-sharp",
